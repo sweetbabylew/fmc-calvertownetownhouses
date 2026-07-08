@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="1080" viewBox="0 0 1050 1080" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Calvertowne two-bedroom townhouse upper level floor plan: two bedrooms, bathroom, hallway, and closets">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="21" y="8" width="1007" height="1044"/>
+<path class="w" d="M415,8 V41 M415,152 V349 M415,354 V387 M415,497 V527 M415,762 V780 M415,1045 V1059 M590,8 V173 M590,176 V190 M590,193 V358 M590,1045 V1059 M809,345 V358 M809,531 V1050 M16,183 H29 M409,183 H590 M16,352 H29 M409,352 H446 M561,352 H855 M990,352 H1029 M25,526 H421 M425,526 H615 M746,526 H809 M16,856 H29 M805,856 H1033"/>
+<path class="d" d="M415,753 V769 M415,777 V799 M809,143 V162 M809,172 V187 M809,445 V474 M663,183 H677 M693,183 H710 M723,183 H739 M804,183 H819 M838,183 H854 M861,183 H878 M900,183 H917"/>
+<path class="wo" d="M21,8 H1028 V1052 H21 V8"/>
+<text class="rm" x="210" y="265">Bedroom</text>
+<text class="rm" x="340" y="780">Bedroom</text>
+<text class="rm" x="790" y="150">Bathroom</text>
+<text class="cl" x="680" y="455">Hallway</text>
+<text class="sm" x="520" y="100">Closet</text>
+<text class="sm" x="510" y="290">Closet</text>
+<text class="sm" x="915" y="945">Closet</text>
+</svg>

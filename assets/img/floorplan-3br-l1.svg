@@ -1,24 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="609" height="1050" viewBox="0 0 609 1050" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Calvertowne townhouse main level floor plan: kitchen/dining and living room">
+<svg xmlns="http://www.w3.org/2000/svg" width="609" height="1050" viewBox="0 0 609 1050" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Calvertowne Townhouses main level floor plan">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
 <rect class="fp" x="21" y="20" width="570" height="1009"/>
 <path class="w" d="M17,526 H376 M468,526 H591 M465,626 H594"/>
-<path class="d" d="M452,526 H468"/>
+<path class="d" d="M388,522 H468 M388,530 H468 M459,7 V24 M467,7 V24 M459,519 V534 M467,519 V534 M459,553 V622 M467,553 V622"/>
 <path class="arc" d="M86,20 V117 M86,117 A97,97 0 0 0 183,20"/>
-<path class="arc" d="M372,20 V117 M372,117 A97,97 0 0 0 469,20"/>
+<path class="win" d="M372,15 H469 M372,20 H469 M372,25 H469 M372,13 V27 M469,13 V27"/>
 <path class="win" d="M89,1024 H186 M89,1029 H186 M89,1034 H186 M89,1022 V1036 M186,1022 V1036"/>
-<path class="win" d="M332,1024 H440 M332,1029 H440 M332,1034 H440 M332,1022 V1036 M440,1022 V1036"/>
+<path class="arc" d="M440,1029 V921 M332,1029 A108,108 0 0 1 440,921"/>
+<path class="st" d="M463,627 V1028 M586,627 V1028 M463,632 H586 M463,653 H586 M463,680 H586 M463,707 H586 M463,732 H586 M463,759 H586 M463,786 H586 M463,811 H586 M463,839 H586 M463,893 H586 M463,947 H586 M463,974 H586 M463,1001 H586 M463,1024 H586"/>
 <path class="wo" d="M21,20 H86 M183,20 H372 M469,20 H591 V1029 H440 M332,1029 H186 M89,1029 H21 V20"/>
 <text class="rm" x="300" y="250">Kitchen/Dining</text>
-<text class="rm" x="230" y="760">Living Room</text>
-<text class="sm" x="535" y="575">Closet</text>
+<text class="rm" x="228" y="775">Living Room</text>
+<text class="cl" x="527" y="585">Closet</text>
 </svg>

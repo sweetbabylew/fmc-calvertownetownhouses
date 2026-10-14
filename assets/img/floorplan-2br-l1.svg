@@ -12,15 +12,17 @@
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
 <rect class="fp" x="21" y="20" width="570" height="1009"/>
-<path class="w" d="M17,526 H376 M468,526 H591 M465,626 H594"/>
-<path class="d" d="M388,522 H468 M388,530 H468 M459,7 V24 M467,7 V24 M459,519 V534 M467,519 V534 M459,553 V622 M467,553 V622"/>
-<path class="arc" d="M86,20 V117 M86,117 A97,97 0 0 0 183,20"/>
+<path class="w" d="M21,526 L376,526 M468,526 L591,526 M465,626 L591,626"/>
+<path class="d" d="M388,522 H468 M388,530 H468 M459,553 V622 M467,553 V622"/>
+<path class="arc" d="M86,20 V117 M183,20 A97,97 0 0 1 86,117"/>
 <path class="win" d="M372,15 H469 M372,20 H469 M372,25 H469 M372,13 V27 M469,13 V27"/>
 <path class="win" d="M89,1024 H186 M89,1029 H186 M89,1034 H186 M89,1022 V1036 M186,1022 V1036"/>
 <path class="arc" d="M440,1029 V921 M332,1029 A108,108 0 0 1 440,921"/>
-<path class="st" d="M463,627 V1028 M586,627 V1028 M463,632 H586 M463,653 H586 M463,680 H586 M463,707 H586 M463,732 H586 M463,759 H586 M463,786 H586 M463,811 H586 M463,839 H586 M463,893 H586 M463,947 H586 M463,974 H586 M463,1001 H586 M463,1024 H586"/>
-<path class="wo" d="M21,20 H86 M183,20 H372 M469,20 H591 V1029 H440 M332,1029 H186 M89,1029 H21 V20"/>
+<path class="st" d="M463,626 V1029 M591,626 V1029 M463,632 H591 M463,653 H591 M463,680 H591 M463,707 H591 M463,732 H591 M463,759 H591 M463,786 H591 M463,811 H591 M463,839 H591 M463,893 H591 M463,947 H591 M463,974 H591 M463,1001 H591 M463,1024 H591"/>
+<path class="st" d="M463,550.0 H591"/>
+<path class="st" d="M463,575.0 H591"/>
+<path class="wo" d="M21,20 H86 M183,20 H372 M469,20 H591 V1029 H440 M332,1029 H186 M89,1029 H21 V20 H31"/>
 <text class="rm" x="300" y="250">Kitchen/Dining</text>
 <text class="rm" x="228" y="775">Living Room</text>
-<text class="cl" x="527" y="585">Closet</text>
+<text class="cl" x="527" y="607">Closet</text>
 </svg>

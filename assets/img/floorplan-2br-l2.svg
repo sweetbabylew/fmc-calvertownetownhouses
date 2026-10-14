@@ -12,19 +12,19 @@
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
 <rect class="fp" x="17" y="7" width="834" height="863"/>
-<path class="w" d="M343,6 V34 M343,126 V289 M343,292 V320 M343,411 V436 M488,6 V143 M488,160 V296 M670,439 V868 M338,152 H488 M338,291 H369 M464,291 H707 M819,291 H851 M20,435 H349 M352,435 H509 M617,435 H670 M666,708 H855"/>
-<path class="arc" d="M822,291 V178 M709,291 A113,113 0 0 1 822,178"/>
-<path class="arc" d="M343,414 H264 M343,335 A79,79 0 0 0 264,414"/>
-<path class="arc" d="M620,435 V530 M525,435 A95,95 0 0 0 620,530"/>
+<path class="w" d="M343,152 L488,152 M343,291 L369,291 M464,291 L707,291 M819,291 L851,291 M17,435 L509,435 M617,435 L670,435 L670,870 M670,708 L851,708 M343,7 L343,34 M343,126 L343,320 M343,411 L343,435 M488,7 L488,291"/>
+<path class="arc" d="M819,291 V179 M707,291 A112,112 0 0 1 819,179"/>
+<path class="arc" d="M343,411 H252 M343,320 A91,91 0 0 0 252,411"/>
+<path class="arc" d="M617,435 V543 M509,435 A108,108 0 0 0 617,543"/>
 <path class="d" d="M369,285 H464 M369,293 H464 M346,47 V127 M354,47 V127"/>
-<path class="st" d="M670,436 V700 M850,436 V700 M670,437 H850 M670,468 H850 M670,500 H850 M670,528 H850 M670,562 H850 M670,590 H850 M670,622 H850 M670,653 H850 M670,684 H850"/>
-<path class="st" d="M670,716 V866 M850,716 V866 M670,747 H850 M670,775 H850 M670,807 H850 M670,838 H850 M670,862 H850"/>
-<path class="wo" d="M17,7 H851 V870 H17 V7"/>
+<path class="st" d="M670,436 V708 M851,436 V708 M670,437 H851 M670,468 H851 M670,500 H851 M670,528 H851 M670,562 H851 M670,590 H851 M670,622 H851 M670,653 H851 M670,684 H851"/>
+<path class="st" d="M670,708 V870 M851,708 V870 M670,747 H851 M670,775 H851 M670,807 H851 M670,838 H851 M670,862 H851"/>
+<path class="wo" d="M17,7 H851 V870 H17 V7 H27"/>
 <text class="rm" x="180" y="225">Bedroom</text>
 <text class="rm" x="280" y="660">Bedroom</text>
 <text class="rm" x="655" y="158">Bathroom</text>
 <text class="cl" x="575" y="375">Hallway</text>
 <text class="sm" x="425" y="90">Closet</text>
 <text class="sm" x="420" y="235">Closet</text>
-<text class="sm" x="762" y="785">Closet</text>
+<text class="sm" x="762" y="796">Closet</text>
 </svg>
